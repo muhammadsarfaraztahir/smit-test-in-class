@@ -1,5 +1,5 @@
 # Welcome to your Expo app 👋
-ui link ("')
+ui link (https://www.figma.com/design/b9to0SLj452IrIbt3nC2Ey/Ai-Food-Delivery--App-Full-UI-Kit-Free-280%2B-Screen-%F0%9F%8D%85%F0%9F%8C%B6%EF%B8%8F%F0%9F%A7%84%F0%9F%A5%95%F0%9F%A5%A6-(Community)?node-id=1-7&node-type=frame&t=gFEOHzniDNoAaWhL-0)
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
